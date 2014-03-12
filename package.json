@@ -1,0 +1,29 @@
+{
+  "name": "file-position",
+  "description": "Given a row/column number, return the index of that character within the whole string",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^2.10.2"
+  },
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/file-position"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/file-position/issues"
+  },
+  "homepage": "https://github.com/hughsk/file-position",
+  "keywords": [
+    "file",
+    "position",
+    "row",
+    "column",
+    "index"
+  ]
+}
